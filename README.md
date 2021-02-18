@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=hunglc007)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **hunglc007/hunglc007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![trophy](https://github-profile-trophy.vercel.app/?username=hunglc007)](https://github.com/ryo-ma/github-profile-trophy)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
