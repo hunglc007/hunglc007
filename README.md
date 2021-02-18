@@ -1,5 +1,5 @@
-### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=hunglc007)](https://github.com/ryo-ma/github-profile-trophy)
+**:star: [Gitstar Ranking - hunglc007](https://gitstar-ranking.com/hunglc007) :hamster:**  
 <!--
 **hunglc007/hunglc007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
